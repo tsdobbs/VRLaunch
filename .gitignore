@@ -1,0 +1,3 @@
+server/user_config.py
+venv
+*.pyc
